@@ -18,6 +18,7 @@ def print_menu():
     print("2 to see a particular student's score")
     print("3 to see the class average on a particular test")
     print("4 to see the students with the highest score")
+    print("5 to see students' average score that match the tests' averga")
     userchoice = int(input("and 0 to quit."))
     return userchoice
 
@@ -63,7 +64,21 @@ def display_max_scores_on_test(dict_scores):
         for key in dict_scores:
             if (dict_scores[key][test_no - 1] == maxScore):
                 print("%s had a test score of %d" %(key, dict_scores[key][test_no - 1]))
-    
+
+def find_avg(dict_scores):
+    total = 0
+    for key in dict_scores:
+        total = total + dict_scores[key][0] + dict_scores[key][1]
+    avg = total / len(dict_scores)
+    return avg
+
+def match_avg(dict_scores):
+    avg = find_avg(dict_scores)
+    print("The average score from all the test is:", avg)
+    for each in dict_scores:
+        combined_score = dict_scores[each][0] + dict_scores[each][1]
+        if combined_score >= avg:
+            print(each)
 
 def run_ui():
     dict_scores = get_data()
@@ -81,8 +96,13 @@ def run_ui():
             display_average_score(dict_scores)
         elif choice == 4:
             display_max_scores_on_test(dict_scores)
+        elif choice == 5:
+            match_avg(dict_scores)
         else:
             print("%d is an invalid choice" %(choice))
 
 if __name__ == '__main__':
     run_ui()
+#
+# dict_scores = get_data()
+# print(find_avg(dict_scores))
