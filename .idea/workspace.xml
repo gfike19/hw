@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2ec1c0d4-ce9e-4eb4-88c5-a029255e8e0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/allison-work.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/allison-work.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter-4.py" beforeDir="false" afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chapter4.py" beforeDir="false" afterPath="$PROJECT_DIR$/chapter4.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,13 +14,18 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="140" column="15" selection-start-line="140" selection-start-column="15" selection-end-line="140" selection-end-column="15" />
+            <state relative-caret-position="-1892">
+              <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NewAssignment6-skeleton.py">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -49,28 +54,28 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="1044" />
-    <option name="height" value="446" />
+    <option name="height" value="447" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="allison-work" type="b2602c69:ProjectViewProjectNode" />
-              <item name="allison-work" type="462c0819:PsiDirectoryNode" />
+              <item name="hw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hw" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -205,12 +210,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1040" height="744" extended-state="6" />
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="2" visible="true" weight="0.2035928" />
+      <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20296644" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.099836335" />
@@ -302,10 +307,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter4.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="140" column="15" selection-start-line="140" selection-start-column="15" selection-end-line="140" selection-end-column="15" />
+        <state relative-caret-position="-1892">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewAssignment6-skeleton.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
