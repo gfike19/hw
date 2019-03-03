@@ -1,0 +1,15 @@
+Grade Level:
+Complete the skeleton function to calculate and return the flesch index
+The support functions to count syllables, words and sentences have been provided. You will need to call them
+You will have to determine what parameters the function takes and what value it returns
+Unique Words:
+Complete the fetch_unique_words() function.
+It should return a list of words in file 1 and file 2 but not in both files
+The arguments fo this are already provided.
+Use fetch_common_words() function as an example
+This link will help: https://docs.python.org/3/library/stdtypes.html#set-types-set-frozenset 
+Finish the run_analysis() function:
+Add a call to get the flesch_index analysis. There is a commented line to help you
+Add a call to get the grade_level anlysis.  There is a commented line to help you
+For density, flesch_index and grade_level: Add useful printing to the user
+Explain what the data means. Example, "File one is written at a higher grade level than is file two"
