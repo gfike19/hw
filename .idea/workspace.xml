@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ec1c0d4-ce9e-4eb4-88c5-a029255e8e0b" name="Default Changelist" comment="" />
+    <list default="true" id="2ec1c0d4-ce9e-4eb4-88c5-a029255e8e0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NewAssignment6-skeleton.py" beforeDir="false" afterPath="$PROJECT_DIR$/NewAssignment6-skeleton.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -10,11 +13,25 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter4.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
               <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Allison_McDaniel_Assignment_5.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NewAssignment6-skeleton.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="155">
+              <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
             </state>
           </provider>
         </entry>
@@ -35,6 +52,11 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="works-on-allison" />
+      </map>
+    </option>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -46,10 +68,10 @@
         <option value="$PROJECT_DIR$/assign5-skeleton.py" />
         <option value="$PROJECT_DIR$/data.txt" />
         <option value="$PROJECT_DIR$/chapter4.py" />
-        <option value="$PROJECT_DIR$/NewAssignment6-skeleton.py" />
         <option value="$PROJECT_DIR$/letter-count.py" />
         <option value="$PROJECT_DIR$/data0.txt" />
         <option value="$PROJECT_DIR$/payroll.py" />
+        <option value="$PROJECT_DIR$/NewAssignment6-skeleton.py" />
       </list>
     </option>
   </component>
@@ -94,7 +116,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.payroll">
+  <component name="RunManager" selected="Python.NewAssignment6-skeleton">
     <configuration name="NewAssignment6-skeleton" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="allison-work" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,9 +224,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.NewAssignment6-skeleton" />
         <item itemvalue="Python.payroll" />
         <item itemvalue="Python.letter-count" />
-        <item itemvalue="Python.NewAssignment6-skeleton" />
         <item itemvalue="Python.chapter4" />
         <item itemvalue="Python.chapter-4" />
       </list>
@@ -246,7 +268,7 @@
       <window_info active="true" content_ui="combo" id="Project" order="2" visible="true" weight="0.20296644" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3532423" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3532423" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.051194537" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -318,13 +340,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chapter-4.py" />
-    <entry file="file://$PROJECT_DIR$/NewAssignment6-skeleton.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/letter-count.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="308">
@@ -336,13 +351,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="66">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -364,6 +372,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="220">
           <caret line="10" column="17" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter-3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Allison_McDaniel_Assignment_5.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NewAssignment6-skeleton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="21" column="41" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
         </state>
       </provider>
     </entry>

@@ -19,6 +19,6 @@ print("Scores above average: " + str(above_avg))
 
 # use map to curve scores by 5 points
 # add 5 points to each score
-curved_scores = map(lambda x: x+x, scores, 5)
+curved_scores = map(lambda x: x+x, scores)
 #map the scores list by adding 5 to each item in the list
 print("Curved scores are: " + str(list(curved_scores)))
