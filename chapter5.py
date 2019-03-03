@@ -41,5 +41,5 @@ for k,v in dict.items():
     else:
         val = dict[k]
         dict[k] = val + 1
-for k,v in dict.items():
-    print(k,v)
+for k, v in dict.items():
+    print(k, v)
